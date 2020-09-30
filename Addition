@@ -4,10 +4,8 @@
 
 main()
 {
-int a=9;
-int b=6;
-int result=a+b;
-cout<<result;
+int a,b=2,3;
+cout<<a+b;
 
 getch();
 }
